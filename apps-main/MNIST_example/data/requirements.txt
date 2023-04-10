@@ -1,0 +1,8 @@
+jupyter
+numpy
+pandas
+tqdm
+matplotlib
+python-mnist
+seaborn
+pickle-mixin
